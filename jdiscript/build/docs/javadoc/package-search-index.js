@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"org.jdiscript"},{"l":"org.jdiscript.events"},{"l":"org.jdiscript.handlers"},{"l":"org.jdiscript.requests"},{"l":"org.jdiscript.util"}]

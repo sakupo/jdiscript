@@ -1,7 +1,10 @@
 **/target
-**/build
+**/build/*
+!/jdiscript/build/**
+/jdiscript/build/tmp
 build.properties
 *.class
+!/jdiscript/build/classes/**
 .gradle
 *.iml
 **/src/generated
