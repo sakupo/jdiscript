@@ -8,3 +8,6 @@ build.properties
 .gradle
 *.iml
 **/src/generated
+*.classpath
+*.project
+*.prefs
